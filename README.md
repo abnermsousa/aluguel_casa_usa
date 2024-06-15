@@ -1,4 +1,5 @@
-# Dataset disponível pela Escola DNC para trabalhar em aula os conceitos iniciais das bibliotecas do Python, como Pandas, Numpy, Matplotlib e trabalhar com dois datasets juntos.
+# Dataset de aluguel de casas nos Estados Unidos
+Dataset disponível pela Escola DNC para trabalhar em aula os conceitos iniciais das bibliotecas do Python, como Pandas, Numpy, Matplotlib e trabalhar com dois datasets juntos.
 
 # Autor
 Abner Miranda de Sousa
